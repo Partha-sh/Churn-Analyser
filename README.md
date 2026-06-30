@@ -40,7 +40,7 @@ Dataset Source: Telco Customer Churn Dataset (Kaggle)
 * High Monthly Charges Indicator
 * Total Services Count
 
-### Machine Learning
+### Machine Learning.    
 
 * Logistic Regression
 * Random Forest Classifier
